@@ -1,0 +1,20 @@
+{
+  "updates": [
+      {
+      "update_version_code": 0,
+      "update_version_name": "1.2.1_online",
+      "update_time": "",
+      "update_title": "",
+      "update_content": "",
+      "update_url": [
+        {
+          "url_name": "",
+          "url_link": ""
+        }
+      ]
+    }
+  ],
+  "update_force": false,
+  "update_force_version_code": 0
+}
+
